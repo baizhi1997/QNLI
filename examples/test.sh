@@ -1,5 +1,5 @@
 
-export GLUE_DIR=/home/qinxinlei/NLU-Project-QNLI/glue_data
+export GLUE_DIR=../glue_data
 export TASK_NAME=QNLI
 
 python run_classifier.py \
